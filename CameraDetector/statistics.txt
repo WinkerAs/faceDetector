@@ -1,0 +1,9 @@
+.\image\image.jpg количество найденных лиц -> 13
+.\image\image.jpg количество найденных лиц -> 13
+.\image\kate.jpg количество найденных лиц -> 1
+.\image\lena.jpg количество найденных лиц -> 1
+.\image\Mimika_lica_v_kartinkah_s_opisaniem_12_01073122.jpg количество найденных лиц -> 15
+.\image\image.jpg количество найденных лиц -> 13
+.\image\kate.jpg количество найденных лиц -> 1
+.\image\lena.jpg количество найденных лиц -> 1
+.\image\Mimika_lica_v_kartinkah_s_opisaniem_12_01073122.jpg количество найденных лиц -> 15
